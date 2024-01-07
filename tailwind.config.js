@@ -8,8 +8,6 @@ export default {
         veryDark: "#1D1D1B",
         dark: "#282825",
         lightPurple: "#F8F5FE",
-        // // "green": "#61CE70",
-        // // "lightBlue": "#6EC1E4",
       },
       fontFamily: {
         monserrat: ["Montserrat", "sans-serif"],
